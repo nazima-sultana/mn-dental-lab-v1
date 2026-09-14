@@ -1,0 +1,6 @@
+{
+  "name": "M.N Dental Laboratory",
+  "description": "Modern, professional dental laboratory in Hyderabad specializing in Esthetic Crowns & Bridges, Implant Prostheses, Zirconia, PFM, DMLS, and Complete Dentures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
